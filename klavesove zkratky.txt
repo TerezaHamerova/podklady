@@ -1,0 +1,48 @@
+všeobecné: 
+F5 		aktualizuje
+f3 		vyhledávání
+F1 		nápověda 
+alt + F4 	zavře aktivní aplikaci 
+shift + enter 	zalomení na novou řádku 
+ctrl + A 	označí vše
+
+Chrome:
+f12 			Devtools
+ctrl + shift + P 	příkazový řádek v DevTools
+ctrl + shift + N 	nové anonymní okno 
+ctrl + N 		nové okno
+ctrl+T 			nová karta
+ctrl + E 		řádek adresy
+
+Windows: 
+win + D		zobrazí plochu
+win + E 	otevře průzkumníka
+win + I 	otevře nastavení 
+win + M 	minimalizuje všechna okna
+win + šipka	přichytí okno aplikace namísto dle výběru 
+alt + tab	přeskakování mezi aplikacemi
+win + V 	otevře historii schránky
+ctrl+esc 	otevře nabídku start
+win + shift + S	výstřižek obrazovky
+win + shift + D	nahrává video obrazovky 
+
+znaky: 
+Zavináč (@)		pravý Alt Gr + V
+Hash (#)		pravý Alt Gr + X
+Menšítko (<)		pravý Alt Gr + <
+Většítko (>) 		pravý Alt Gr + >
+stříška (^)		pravý Alt Gr + š/3
+vlnovka(~)		pravý Alt Gr + 1/+
+Dolar ($)		pravý Alt Gr + ů
+Euro (€) 		pravý Alt Gr + E
+Ampersand (&)		pravý Alt Gr + C
+Zpětné lomítko (\) 	pravý Alt Gr + Q
+Hranatá závorka ([)	pravý Alt Gr + F
+Hranatá závorka (])	pravý Alt Gr + G
+Složená závorka ({) 	pravý Alt Gr + B
+Složená závorka (}) 	pravý Alt Gr + N
+Apostrof (’) 		levý Alt + 0146
+České úvodní uvozovky („)  	levý Alt + 0132
+České koncové uvozovky (“) 	levý Alt + 0147
+Anglické úvodní uvozovky (“)	levý Alt + 0147
+Anglické koncové uvozovky (”)	levý Alt + 0148
