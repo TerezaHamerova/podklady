@@ -13,6 +13,7 @@ ctrl + shift + N 	nové anonymní okno
 ctrl + N 		nové okno
 ctrl+T 			nová karta
 ctrl + E 		řádek adresy
+devtools ctrl+shift+P	příkazový řádek
 
 Windows: 
 win + D		zobrazí plochu
